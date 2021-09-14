@@ -1,0 +1,1 @@
+It is a simple JavaScript DOM project. Live site link have been given on about section!
